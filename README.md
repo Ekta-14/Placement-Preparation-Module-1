@@ -1,1 +1,5 @@
 # Placement-Preparation-Module-1
+#Name- EKTA JAIN
+#ROLL NUMBER- 2000290130067
+#SEMESTER- 7th
+#SECTION- A
